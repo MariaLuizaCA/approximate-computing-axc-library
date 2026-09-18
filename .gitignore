@@ -1,0 +1,11 @@
+# Ignore simulation output files from Icarus Verilog
+*.out
+*.o
+
+# Ignore GTKWave dumpfiles
+*.vcd
+
+# System / IDE temporary files
+.DS_Store
+Thumbs.db
+.vscode/
